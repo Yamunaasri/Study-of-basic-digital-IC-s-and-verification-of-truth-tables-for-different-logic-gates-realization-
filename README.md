@@ -1,12 +1,12 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
- AIM:
+## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
-Equipments Required:
+##Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
-Theory
-Introduction
+##Theory
+###Introduction
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
 AND gate
@@ -58,15 +58,21 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 Program:
-/*
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
-Output:
-RTL
 
-Result:
+Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+Developed by: Yamunaasri
+RegisterNumber:  212222240117
+![pr](https://user-images.githubusercontent.com/115707860/227826137-c0222273-7c79-4734-9fa6-d167e0d8cba6.png)
+
+Logic symbol & Truthtable
+
+RTL realization
+##Output:
+![td](https://user-images.githubusercontent.com/115707860/227826284-88c771ec-baef-4aba-8963-dec2143420c2.png)
+
+##RTL
+![rtl](https://user-images.githubusercontent.com/115707860/227826323-5d612eb9-6bff-4df9-8fda-e57826b339e5.png)
+
+
+##Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
